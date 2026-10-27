@@ -2,7 +2,7 @@
 ### Câu 1
 Điều sau đây là cơ chế thẩm thấu chung của thuốc, TRỪ:
 A. Khuếch tán dung dịch nước
-**B. Thủy phân nước**
+B. Thủy phân nước
 C. Khuếch tán lipid
 D. Thực bào hoặc ẩm bảo
 E. Vận chuyển bằng chất mang

@@ -1,4 +1,3 @@
-#Dược_động_học 
 
 ### Câu 1
 
@@ -11,7 +10,7 @@ E. Có một số chất mang để vận chuyển
 
 > [!success]- Bấm để xem đáp án
 >  **D** 
->  **Giải thích**_: hàng rào máu não có mạng mao mạch dày đặc, tưới máu cao nên diện tích tiếp xúc **lớn**, không nhỏ. Các ý còn lại đúng: nội mô xếp khít (tight junction), thuốc thân lipid qua dễ, có chất mang vận chuyển.
+>  **Giải thích**: hàng rào máu não có mạng mao mạch dày đặc, tưới máu cao nên diện tích tiếp xúc **lớn**, không nhỏ. Các ý còn lại đúng: nội mô xếp khít (tight junction), thuốc thân lipid qua dễ, có chất mang vận chuyển.
 
 ### Câu 2
 
@@ -55,7 +54,7 @@ E. Phụ thuộc vào pH
 
 > [!success]- Bấm để xem đáp án 
 > **E** 
-> **Giải thích**_: vận chuyển tích cực không phụ thuộc pH, chỉ có vận chuyển thụ động mới phụ thuộc pH của môi trường (thuốc ở dạng không ion hóa mới khuếch tán qua màng). Vận chuyển tích cực: cần năng lượng, cần chất mang, đặc hiệu, bão hòa, cạnh tranh.
+> **Giải thích**: vận chuyển tích cực không phụ thuộc pH, chỉ có vận chuyển thụ động mới phụ thuộc pH của môi trường (thuốc ở dạng không ion hóa mới khuếch tán qua màng). Vận chuyển tích cực: cần năng lượng, cần chất mang, đặc hiệu, bão hòa, cạnh tranh.
 
 ### Câu 5
 
@@ -63,7 +62,8 @@ Thông số dược động học nào được đặc trưng bởi phần khả
 A. Thời gian khởi đầu tác dụng 
 B. Sinh khả dụng 
 C. Nồng độ tối đa trong máu 
-D. Hệ số ly trích E. t1/2
+D. Hệ số ly trích 
+E. t1/2
 
 > [!success]- Bấm để xem đáp án 
 > **B** 
@@ -79,8 +79,8 @@ D. Xuất hiện sớm và kéo dài sau khi ngừng chất gây cảm ứng
 E. Xuất hiện chậm và kéo dài sau khi ngừng chất gây cảm ứng
 
 > [!success]- Bấm để xem đáp án 
-> **E** _
-> **Giải thích**_: cảm ứng cần tổng hợp thêm enzym nên xuất hiện **chậm** (vài ngày đến vài tuần), và mất đi cũng **chậm** sau khi ngừng. Ức chế enzym thì ngược lại: xuất hiện sớm, mất sớm. A sai vì cảm ứng làm **tăng** chuyển hóa. ⚠️ File gốc đang tô đáp án D, mình nghĩ là nhầm, bạn kiểm tra lại với đáp án của bộ môn.
+> **E** 
+> **Giải thích**: cảm ứng cần tổng hợp thêm enzym nên xuất hiện **chậm** (vài ngày đến vài tuần), và mất đi cũng **chậm** sau khi ngừng. Ức chế enzym thì ngược lại: xuất hiện sớm, mất sớm. A sai vì cảm ứng làm **tăng** chuyển hóa. ⚠️ File gốc đang tô đáp án D, mình nghĩ là nhầm, bạn kiểm tra lại với đáp án của bộ môn.
 
 ### Câu 7
 
@@ -91,8 +91,8 @@ D. Liên kết mô cao
 E. Tất cả các đáp án trên đều đúng
 
 > [!success]- Bấm để xem đáp án 
-> **C** _
-> **Giải thích**_: liên kết protein huyết tương cao giữ thuốc lại trong máu nên **giảm** Vd. Ba ý còn lại đều giúp thuốc đi vào mô nên **tăng** Vd (tan lipid, ít ion hóa, liên kết mô cao). ⚠️ File gốc đang tô đáp án D, mình nghĩ là nhầm, bạn kiểm tra lại với đáp án của bộ môn.
+> **C** 
+> **Giải thích**: liên kết protein huyết tương cao giữ thuốc lại trong máu nên **giảm** Vd. Ba ý còn lại đều giúp thuốc đi vào mô nên **tăng** Vd (tan lipid, ít ion hóa, liên kết mô cao). ⚠️ File gốc đang tô đáp án D, mình nghĩ là nhầm, bạn kiểm tra lại với đáp án của bộ môn.
 
 ### Câu 8
 
@@ -104,8 +104,8 @@ D. Không có ái lực nhưng hoạt tính nội tại cao
 E. Ái lực cao nhưng không có hoạt tính nội tại
 
 > [!success]- Bấm để xem đáp án 
-> **A** _
-> **Giải thích**_: chất chủ vận một phần gắn tốt vào receptor (ái lực cao) nên chiếm chỗ của chất chủ vận toàn phần, nhưng chỉ gây đáp ứng yếu (hoạt tính nội tại thấp). E là chất đối kháng thuần túy (hoạt tính nội tại bằng 0).
+> **A** 
+> **Giải thích**: chất chủ vận một phần gắn tốt vào receptor (ái lực cao) nên chiếm chỗ của chất chủ vận toàn phần, nhưng chỉ gây đáp ứng yếu (hoạt tính nội tại thấp). E là chất đối kháng thuần túy (hoạt tính nội tại bằng 0).
 
 ### Câu 9
 
@@ -117,8 +117,8 @@ D. Không cạnh tranh
 E. Phụ thuộc vào pH
 
 > [!success]- Bấm để xem đáp án 
-> **A** _
-> **Giải thích**_: khuếch tán thụ động theo chiều gradient nồng độ, **không bão hòa**, không cần năng lượng, không đặc hiệu, không cạnh tranh, phụ thuộc pH (dạng không ion hóa mới qua màng). Bão hòa là đặc điểm của vận chuyển nhờ chất mang.
+> **A** 
+> **Giải thích**: khuếch tán thụ động theo chiều gradient nồng độ, **không bão hòa**, không cần năng lượng, không đặc hiệu, không cạnh tranh, phụ thuộc pH (dạng không ion hóa mới qua màng). Bão hòa là đặc điểm của vận chuyển nhờ chất mang.
 
 ### Câu 10
 
@@ -130,8 +130,8 @@ D. Có tính cạnh tranh liên kết
 E. Dạng liên kết không có tác dụng
 
 > [!success]- Bấm để xem đáp án 
-> **C** _
-> **Giải thích**_: liên kết thuốc-protein **không đặc hiệu**, thuận nghịch, bão hòa, cạnh tranh giữa các thuốc, và dạng gắn protein không có tác dụng. Chủ yếu gắn albumin (thuốc acid yếu). ⚠️ File gốc đang tô đáp án B, mình nghĩ là nhầm vì liên kết thuận nghịch là đúng, bạn kiểm tra lại với đáp án của bộ môn.
+> **C** 
+> **Giải thích**: liên kết thuốc-protein **không đặc hiệu**, thuận nghịch, bão hòa, cạnh tranh giữa các thuốc, và dạng gắn protein không có tác dụng. Chủ yếu gắn albumin (thuốc acid yếu). ⚠️ File gốc đang tô đáp án B, mình nghĩ là nhầm vì liên kết thuận nghịch là đúng, bạn kiểm tra lại với đáp án của bộ môn.
 
 ### Câu 11
 
@@ -143,8 +143,8 @@ D. AUC0-24/MIC
 E. T>MIC và Cpeak/MIC
 
 > [!success]- Bấm để xem đáp án 
-> **A** _
-> **Giải thích**_: kháng sinh phụ thuộc thời gian (ví dụ beta-lactam) cần giữ nồng độ trên MIC càng lâu càng tốt nên dùng chỉ số **T>MIC**. Cpeak/MIC dành cho nhóm phụ thuộc nồng độ (aminoglycosid). AUC/MIC dành cho nhóm phụ thuộc cả hai (fluoroquinolon, vancomycin).
+> **A** 
+> **Giải thích**: kháng sinh phụ thuộc thời gian (ví dụ beta-lactam) cần giữ nồng độ trên MIC càng lâu càng tốt nên dùng chỉ số **T>MIC**. Cpeak/MIC dành cho nhóm phụ thuộc nồng độ (aminoglycosid). AUC/MIC dành cho nhóm phụ thuộc cả hai (fluoroquinolon, vancomycin).
 
 ### Câu 12
 
@@ -156,8 +156,8 @@ D. CYP1A2
 E. CYP3A4
 
 > [!success]- Bấm để xem đáp án 
-> **E** _
-> **Giải thích**_: CYP3A4 chuyển hóa khoảng 50% số thuốc đang dùng, nên là nơi xảy ra nhiều tương tác (ví dụ rifampicin cảm ứng, ketoconazol và nước bưởi chùm ức chế).
+> **E**
+> **Giải thích**: CYP3A4 chuyển hóa khoảng 50% số thuốc đang dùng, nên là nơi xảy ra nhiều tương tác (ví dụ rifampicin cảm ứng, ketoconazol và nước bưởi chùm ức chế).
 
 ### Câu 13
 
@@ -169,8 +169,8 @@ D. Tốc độ bài tiết ở ống thận
 E. pH nước tiểu
 
 > [!success]- Bấm để xem đáp án
->  **B** _
->  **Giải thích**_: ở cầu thận chỉ **dạng tự do** được lọc, dạng gắn protein không lọc qua được. Các ý A, C, E ảnh hưởng tái hấp thu ở ống thận, D là bài tiết ở ống thận.
+>  **B** 
+>  **Giải thích**: ở cầu thận chỉ **dạng tự do** được lọc, dạng gắn protein không lọc qua được. Các ý A, C, E ảnh hưởng tái hấp thu ở ống thận, D là bài tiết ở ống thận.
 
 ### Câu 14
 
@@ -182,8 +182,8 @@ D. Thời điểm thuốc bắt đầu bị thải trừ
 E. Tất cả các đáp án trên đều đúng
 
 > [!success]- Bấm để xem đáp án 
-> **B** _
-> **Giải thích**_: tại Cmax, tốc độ hấp thu bằng tốc độ thải trừ. Trước Cmax hấp thu nhiều hơn thải trừ, sau Cmax thải trừ nhiều hơn hấp thu. Thuốc bắt đầu bị chuyển hóa và thải trừ ngay từ khi vào máu, không phải từ Cmax.
+> **B** 
+> **Giải thích**: tại Cmax, tốc độ hấp thu bằng tốc độ thải trừ. Trước Cmax hấp thu nhiều hơn thải trừ, sau Cmax thải trừ nhiều hơn hấp thu. Thuốc bắt đầu bị chuyển hóa và thải trừ ngay từ khi vào máu, không phải từ Cmax.
 
 ### Câu 15
 
@@ -194,8 +194,8 @@ D. 2-1-4-3
 E. 1-3-4-2
 
 > [!success]- Bấm để xem đáp án 
-> **C** _
-> **Giải thích**_: thứ tự **ADME**: Hấp thu (2) → Phân phối (4) → Chuyển hóa (1) → Bài xuất (3).
+> **C** 
+> **Giải thích**: thứ tự **ADME**: Hấp thu (2) → Phân phối (4) → Chuyển hóa (1) → Bài xuất (3).
 
 ### Câu 16
 
@@ -207,8 +207,8 @@ D. Cả 3 ý trên
 E. Không có thuốc nào
 
 > [!success]- Bấm để xem đáp án 
-> **A** _
-> **Giải thích**_: allopurinol gần như không gắn protein huyết tương. Ethambutol có gắn một phần nhỏ, heparin gắn với protein huyết tương/lipoprotein nên B, C không đúng.
+> **A** 
+> **Giải thích**: allopurinol gần như không gắn protein huyết tương. Ethambutol có gắn một phần nhỏ, heparin gắn với protein huyết tương/lipoprotein nên B, C không đúng.
 
 ### Câu 17
 
@@ -220,8 +220,8 @@ D. Áp dụng với những thuốc bị hoại tử khi tiêm bắp
 E. Ưu tiên dùng khi cấp cứu
 
 > [!success]- Bấm để xem đáp án 
-> **A** _
-> **Giải thích**_: đường tĩnh mạch **nhiều rủi ro hơn** (sốc phản vệ, tắc mạch, nhiễm khuẩn huyết, không rút lại được thuốc). Ưu điểm: tác dụng nhanh, đưa được thể tích lớn, dùng cho thuốc gây hoại tử khi tiêm bắp, ưu tiên khi cấp cứu.
+> **A** 
+> **Giải thích**: đường tĩnh mạch **nhiều rủi ro hơn** (sốc phản vệ, tắc mạch, nhiễm khuẩn huyết, không rút lại được thuốc). Ưu điểm: tác dụng nhanh, đưa được thể tích lớn, dùng cho thuốc gây hoại tử khi tiêm bắp, ưu tiên khi cấp cứu.
 
 ### Câu 18
 
@@ -233,8 +233,8 @@ D. Không qua được hàng rào máu não
 E. Khả năng khuếch tán không phụ thuộc vào pH
 
 > [!success]- Bấm để xem đáp án 
-> **B** _
-> **Giải thích**_: nước tiểu kiềm làm acid yếu ion hóa nhiều, khó tái hấp thu ở ống thận nên thải nhanh hơn (ví dụ kiềm hóa nước tiểu bằng NaHCO3 khi ngộ độc phenobarbital, aspirin).
+> **B** 
+> **Giải thích**: nước tiểu kiềm làm acid yếu ion hóa nhiều, khó tái hấp thu ở ống thận nên thải nhanh hơn (ví dụ kiềm hóa nước tiểu bằng NaHCO3 khi ngộ độc phenobarbital, aspirin).
 > 
 > - A sai: acid yếu gắn albumin, base yếu gắn α1-glycoprotein. 
 > - C sai: trong dịch vị acid, acid yếu ít ion hóa. 
@@ -246,11 +246,12 @@ Kiểu đối kháng nào sau đây mà đáp ứng của chất chủ vận có
 A. Đối kháng cạnh tranh không thuận nghịch 
 B. Đối kháng cạnh tranh thuận nghịch
 C. Đối kháng không cạnh tranh 
-D. Đối kháng chức năng E. Đối kháng hoá học
+D. Đối kháng chức năng 
+E. Đối kháng hoá học
 
 > [!success]- Bấm để xem đáp án 
-> **B** _
-> **Giải thích**_: ở đối kháng cạnh tranh thuận nghịch, tăng nồng độ chất chủ vận sẽ đẩy chất đối kháng ra khỏi receptor, nên vẫn đạt đáp ứng tối đa (đường cong dịch sang phải, Emax không đổi). Đối kháng không thuận nghịch hoặc không cạnh tranh thì Emax giảm.
+> **B** 
+> **Giải thích**: ở đối kháng cạnh tranh thuận nghịch, tăng nồng độ chất chủ vận sẽ đẩy chất đối kháng ra khỏi receptor, nên vẫn đạt đáp ứng tối đa (đường cong dịch sang phải, Emax không đổi). Đối kháng không thuận nghịch hoặc không cạnh tranh thì Emax giảm.
 
 ### Câu 20
 
@@ -262,8 +263,8 @@ D. Protein kênh ion
 E. Protein cấu trúc
 
 > [!success]- Bấm để xem đáp án
->  **A** _
->  **Giải thích**_: tyrosine kinase là phần nội bào của receptor xuyên màng (ví dụ receptor insulin, EGFR), có hoạt tính enzym phosphoryl hóa gốc tyrosin.
+>  **A** 
+>  **Giải thích**: tyrosine kinase là phần nội bào của receptor xuyên màng (ví dụ receptor insulin, EGFR), có hoạt tính enzym phosphoryl hóa gốc tyrosin.
 
 ### Câu 21
 
@@ -275,5 +276,5 @@ D. Đường tiêm IV thích hợp hơn đường uống
 E. Đường uống thích hợp hơn đường tiêm IV
 
 > [!success]- Bấm để xem đáp án 
-> **A** _
-> **Giải thích**_: tiêm IV có F = 100%, nên AUC uống bằng AUC IV nghĩa là F uống xấp xỉ 100%. AUC chỉ phản ánh **mức độ** hấp thu, không cho biết **tốc độ** (loại C). Không suy ra được cho mọi dạng uống khác (loại B).
+> **A** 
+> **Giải thích**: tiêm IV có F = 100%, nên AUC uống bằng AUC IV nghĩa là F uống xấp xỉ 100%. AUC chỉ phản ánh **mức độ** hấp thu, không cho biết **tốc độ** (loại C). Không suy ra được cho mọi dạng uống khác (loại B).
